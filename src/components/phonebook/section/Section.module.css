@@ -1,0 +1,17 @@
+.section {
+    margin-top: 10px;
+    margin-left: 10px;
+    text-align: center;
+}
+
+.container {
+    width: 350px;
+    border-radius: 10px;
+    overflow: hidden;
+    background-color: #afafaf;
+    padding: 20px;
+}
+
+.title {
+    margin-bottom: 20px;
+}
